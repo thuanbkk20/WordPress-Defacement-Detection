@@ -1,0 +1,4 @@
+pymysql
+phpserialize
+python-dotenv
+requests
